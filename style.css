@@ -1,0 +1,57 @@
+Body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.justify-text {
+    text-align: justify;
+}
+
+.button-c {
+    color: white;
+    background-color: #3F87F5;
+}
+
+.button-c:hover {
+    color: white;
+    background-color: #3370cc;
+}
+
+.card {
+    width: 292px;
+}
+
+.c-title {
+    color: #231D4F;
+    font-family: 'Roboto', sans-serif;
+    line-height: 46px;
+}
+
+.c-text {
+    color: #848199;
+}
+
+.i-color {
+    margin-right: 1rem;
+}
+
+.spacial-i-color {
+    margin-right: 1rem;
+}
+
+.special-card {
+    color: white;
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    background-position: 120% 50%;
+    background-color: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+}
+
+.badge {
+    left: 87%;
+}
+
+.spacial-c-title {
+    font-family: 'Roboto', sans-serif;
+    line-height: 46px;
+}
